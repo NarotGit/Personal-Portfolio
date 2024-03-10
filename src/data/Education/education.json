@@ -1,0 +1,28 @@
+{
+  "education": [
+    {
+      "title": "B.Tech Electronics and Communication Engineering (ECE)",
+      "college": "KG Reddy Engineering College",
+      "location": "Hyderabad, Telangana, India",
+      "startDate": "July 2015",
+      "endDate": "July 2019",
+      "logo": "jiit.png"
+    },
+    {
+      "title": "Board of Intermediate Education",
+      "college": "Narayana Junior College",
+      "location": "Hyderabad, Telangana, India",
+      "startDate": "June 2013",
+      "endDate": "May 2015",
+      "logo": "balbharti.jpeg"
+    },
+    {
+      "title": "High School (SSC) - Class 10",
+      "college": "SMP Model High School",
+      "location": "Hyderabad, Telangana, India",
+      "startDate": "June 2012",
+      "endDate": "April 2013",
+      "logo": "balbharti.jpeg"
+    }
+  ]
+}

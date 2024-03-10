@@ -1,0 +1,66 @@
+{
+  "skills": [
+    {
+      "category": "Data Science",
+      "logo": "data-science.jpeg",
+      "overAllValue": 8,
+      "subSkills": [
+        "Data Wrangling & Processing",
+        "Statistics and Analytics",
+        "Machine Learning",
+        "Natural Language Processing",
+        "Generative AI",
+        "Deep Learning"
+      ]
+    },
+    {
+      "category": "Programming Languages",
+      "logo": "language.png",
+      "overAllValue": 7,
+      "subSkills": [
+        "Python",
+        "R Language",
+        "HTML & CSS"
+      ]
+    },
+    {
+      "category": "Back-End Development",
+      "logo": "backend.jpeg",
+      "overAllValue": 7,
+      "subSkills": [
+        "Python",
+        "Flask"
+      ]
+    },
+    {
+      "category": "DBMS & Databases",
+      "logo": "database.jpeg",
+      "overAllValue": 7,
+      "subSkills": [
+        "MySQL",
+        "Postgres",
+        "MongoDB"
+      ]
+    },
+    {
+      "category": "DevOps",
+      "logo": "devops.png",
+      "overAllValue": 6,
+      "subSkills": [
+        "GitHub",
+        "Docker",
+        "CI/CD"
+      ]
+    },
+    {
+      "category": "Cloud",
+      "logo": "cloud.jpeg",
+      "overAllValue": 5,
+      "subSkills": [
+        "Azure DataFactory",
+        "Azure Storage"
+      ]
+    }
+
+  ]
+}

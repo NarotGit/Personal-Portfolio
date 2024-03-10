@@ -1,0 +1,58 @@
+{
+  "totalExperience": 2.5,
+  "workExperience": [
+    {
+      "company": "RMES India Pvt. Ltd",
+      "companyLogo": "rugged.svg",
+      "designation": "Data Scientist",
+      "location": "Hyderabad, Telangana, India",
+      "startDate": "October, 2023",
+      "endDate": "Current",
+      "achievements": [
+        "Designed and implemented a microservice for near real-time forecasting and anomaly detection of a electrical asset.",
+        "Developed Data analystics for various electrical assets"
+      ]
+    },
+    {
+      "company": "Accusaga Information Technologies",
+      "companyLogo": "accusaga.png",
+      "designation": "Data Scientist",
+      "location": "Hyderabad, Telangana, India",
+      "startDate": "December, 2022",
+      "endDate": "September, 2023",
+      "achievements": [
+        "Researched, designed and developed key product development modules, including marketing mix modeling, test/control, a/b testing, and key driver analysis.",
+        "Led the development of marketing mix models to understand the impact of various marketing channels and optimize resource allocation for maximum ROI.",
+        "Developed and implemented A/B testing methodologies to assess the effectiveness of marketing campaigns and optimize conversion rates.",
+        "Utilized statistical techniques and hypothesis testing to analyze A/B test results and provide data-driven recommendations for improving campaign performance."
+      ]
+    },
+    {
+      "company": "Accusaga Information Technologies",
+      "companyLogo": "accusaga.png",
+      "designation": "Junior Data Scientist",
+      "location": "Hyderabad, Telangana, India",
+      "startDate": "December, 2021",
+      "endDate": "November, 2022",
+      "achievements": [
+        "Researched, designed and developed key product development modules, including marketing mix modeling, test/control, a/b testing, and key driver analysis.",
+        "Conducted key driver analysis to identify the primary factors influencing business metrics, enabling actionable insights for strategic decision-making.",
+        "Contributed to an offshore healthcare project performing essential tasks such as data scraping, data cleaning, manipulation, and conducting text analysis on podcast data using NLP.",
+        "Developed comprehensive end-to-end data analytics functionality APIs using Flask."
+      ]
+    },
+    {
+      "company": "Pianalytix",
+      "companyLogo": "pianalytix.png",
+      "designation": "Data Science Engineer",
+      "location": "Hyderabad, Telangana, India",
+      "startDate": "02 July, 2021",
+      "endDate": "30 Nov, 2022",
+      "achievements": [
+        "Data Scarping, Data Wrangling and Analysis.",
+        "Built a Air Quality Forecasting project.",
+        "Developed robust scripts for web scraping, enabling seamless and efficient data collection from diverse sources."
+      ]
+    }
+  ]
+}

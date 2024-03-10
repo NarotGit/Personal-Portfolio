@@ -1,0 +1,78 @@
+{
+  "courses": [
+    {
+      "title": "Data Science & AI",
+      "description": "Data Science, Statistics, ML, R, Python",
+      "issuer": "Social Prachar",
+      "instructor": "Abhishek",
+      "imagePath": "Datascience_AI.jpg",
+      "completionDate": "November, 2020",
+      "duration": "10 months"
+    },
+    {
+      "title": "Deep Learning",
+      "description": "Deep Learning A-Z: Neural Networks, AI",
+      "issuer": "Udemy",
+      "instructor": "Kirill Eremenko, Hadelin de Ponteves",
+      "imagePath": "Deep learning.jpg",
+      "completionDate": "March 1, 2021",
+      "duration": "23 hours",
+      "link": "https://www.udemy.com/certificate/UC-51c8e13e-08e6-463d-93c2-cf0fad226e7a/"
+    },
+    {
+      "title": "Azure Machine Learning",
+      "description": "DP-100: A-Z Machine Learning using Azure Machine Learning",
+      "issuer": "Udemy",
+      "instructor": "Jitesh Khurkhuriya",
+      "imagePath": "Azure ML.jpg",
+      "completionDate": "2022-2023",
+      "duration": "27 hours",
+      "link": "https://www.udemy.com/certificate/UC-50c4e514-72ca-461f-bd09-98fd3a1b31af/"
+    },
+    {
+      "title": "Introduction to Data Science",
+      "description": "A course on cognitiveclass.ai Powered by IBM Developer Skills Network.",
+      "issuer": "Cognitive Class",
+      "instructor": "by IBM",
+      "imagePath": "Cognitive Class DS0101EN Certificate.jpg",
+      "completionDate": "November 9, 2020",
+      "link": "https://courses.cognitiveclass.ai/certificates/efecef61d2f74633ae4b61d157284ce9"
+    },
+    {
+      "title": "AWS Machine Learning",
+      "description": "AWS Certified Machine Learning",
+      "issuer": "Udemy",
+      "instructor": "Chandra lingam",
+      "imagePath": "AWS ML.jpg",
+      "completionDate": "2021",
+      "duration": "18 hours"
+    },
+    {
+      "title": "Generative AI",
+      "description": "ChatGPT Prompt Engineering for Developers",
+      "issuer": "DeepLearning.AI",
+      "instructor": "Andrew Neg",
+      "imagePath": "DL_AI.png",
+      "completionDate": "2023",
+      "duration": "3 hours"
+    },
+    {
+      "title": "Langchain",
+      "description": "Langchain for LLM Application Development",
+      "issuer": "DeepLearning.AI",
+      "instructor": "Andrew Neg",
+      "imagePath": "DeepLearning_AI.png",
+      "completionDate": "2024",
+      "duration": "3 hours"
+    },
+    {
+      "title": "Generative AI",
+      "description": "Building Systems with the ChatGPT API",
+      "issuer": "DeepLearning.AI",
+      "instructor": "Andrew Neg",
+      "imagePath": "DeepLearning_AI.png",
+      "completionDate": "2024",
+      "duration": "4 hours"
+    }
+  ]
+}
