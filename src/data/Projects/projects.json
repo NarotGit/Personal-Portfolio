@@ -1,0 +1,114 @@
+{
+  "projects": [
+    {
+      "hasBlog": false,
+      "hasLiveDemo": false,
+      "hasGitHubRepo": true,
+      "title": "Policy-Risk App V5",
+      "description": "A Policy Based Risk Management Web-App",
+      "gitHubLink": "https://github.com/the-stranded-alien/Policy_Module_SpringBoot_05",
+      "demoLink": "",
+      "blogLink": "",
+      "imagePath": "risk.png"
+    },
+    {
+      "hasBlog": false,
+      "hasLiveDemo": false,
+      "hasGitHubRepo": true,
+      "title": "Policy-Risk App V4",
+      "description": "A Policy Based Risk Management Web-App",
+      "gitHubLink": "https://github.com/the-stranded-alien/Policy_Module_SpringBoot_04",
+      "demoLink": "",
+      "blogLink": "",
+      "imagePath": "risk.png"
+    },
+    {
+      "hasBlog": false,
+      "hasLiveDemo": false,
+      "hasGitHubRepo": true,
+      "title": "Locker App",
+      "description": "Simple Locker Management API",
+      "gitHubLink": "https://github.com/the-stranded-alien/LockerManagementAPI",
+      "demoLink": "",
+      "blogLink": "",
+      "imagePath": "locker.jpeg"
+    },
+    {
+      "hasBlog": false,
+      "hasLiveDemo": false,
+      "hasGitHubRepo": true,
+      "title": "Ticket Booking",
+      "description": "Theater Ticket Booking System API",
+      "gitHubLink": "https://github.com/the-stranded-alien/TTBS",
+      "demoLink": "",
+      "blogLink": "",
+      "imagePath": "ticket.jpeg"
+    },
+    {
+      "hasBlog": false,
+      "hasLiveDemo": false,
+      "hasGitHubRepo": true,
+      "title": "Drowsiness Detection",
+      "description": "Early Drowsiness Detection using ML & Image Processing",
+      "gitHubLink": "https://github.com/the-stranded-alien/Drowsiness_Detection_Minor",
+      "demoLink": "",
+      "blogLink": "",
+      "imagePath": "drowsiness.png"
+    },
+    {
+      "hasBlog": false,
+      "hasLiveDemo": false,
+      "hasGitHubRepo": true,
+      "title": "Stance Detection",
+      "description": "Political Stance Detection using ML, DL & NLP",
+      "gitHubLink": "https://github.com/the-stranded-alien/Stance_Detection_Project",
+      "demoLink": "",
+      "blogLink": "",
+      "imagePath": "stance.png"
+    },
+    {
+      "hasBlog": false,
+      "hasLiveDemo": false,
+      "hasGitHubRepo": true,
+      "title": "Telegram Bot",
+      "description": "Telegram News Bot using News API & Google DialogFlow",
+      "gitHubLink": "https://github.com/the-stranded-alien/Telegram_Bot",
+      "demoLink": "",
+      "blogLink": "",
+      "imagePath": "telegram.png"
+    },
+    {
+      "hasBlog": false,
+      "hasLiveDemo": false,
+      "hasGitHubRepo": true,
+      "title": "Machine Learning",
+      "description": "Mini Projects using various ML Algorithms",
+      "gitHubLink": "https://github.com/the-stranded-alien/Machine_Learning",
+      "demoLink": "",
+      "blogLink": "",
+      "imagePath": "ml.jpeg"
+    },
+    {
+      "hasBlog": false,
+      "hasLiveDemo": false,
+      "hasGitHubRepo": true,
+      "title": "Deep Learning",
+      "description": "Mini Projects using various DL Algorithms",
+      "gitHubLink": "https://github.com/the-stranded-alien/Deep_Learning",
+      "demoLink": "",
+      "blogLink": "",
+      "imagePath": "dl.jpeg"
+    },
+    {
+      "hasBlog": false,
+      "hasLiveDemo": false,
+      "hasGitHubRepo": true,
+      "title": "JS Mini Projects",
+      "description": "Real Life Mini Projects using Data Structure And Algorithms",
+      "gitHubLink": "https://github.com/the-stranded-alien/Data_Structures_Projects",
+      "demoLink": "",
+      "blogLink": "",
+      "imagePath": "ds-algo.png"
+    }
+  ]
+}

@@ -41,7 +41,7 @@ function App() {
                     {/* <Route path="/education" element={<Education />} /> */}
                     <Route path="/skill" element={<Skill />} />
                     <Route path="/education" element={<Education />} />
-                    <Route path="/project" element={<Project />} />
+                    {/* <Route path="/project" element={<Project />} /> */}
                     {/*<Route path="/certification" element={<Certification />} />*/}
                     <Route path="/course" element={<Course />} />
                     <Route path="/resume" element={<Resume />} />
