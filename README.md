@@ -17,7 +17,6 @@ I would like to give credit to the following individuals and resources that insp
 
 - [https://github.com/soumyajit4419]: (https://github.com/soumyajit4419/Portfolio)
 - [https://github.com/the-stranded-alien]: (https://github.com/the-stranded-alien/Portfolio)
-- ...
 
 # Portfolio: portfolio.narot.in
 
