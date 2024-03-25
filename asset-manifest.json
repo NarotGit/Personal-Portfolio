@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Personal-Portfolio/static/css/main.20908ec3.css",
+    "main.js": "/Personal-Portfolio/static/js/main.7f80adad.js",
+    "static/media/Narot Resume.pdf": "/Personal-Portfolio/static/media/Narot Resume.9cbbc377a7e35246e790.pdf",
+    "static/media/avatar.png": "/Personal-Portfolio/static/media/avatar.8c9dfcec403021834a03.png",
+    "static/media/home-bg.jpg": "/Personal-Portfolio/static/media/home-bg.44682456e375dc8e0d76.jpg",
+    "static/media/about.png": "/Personal-Portfolio/static/media/about.e3765cef9031d9c2b07f.png",
+    "static/media/logo.png": "/Personal-Portfolio/static/media/logo.d82c17528902737e92c5.png",
+    "static/media/home-main.png": "/Personal-Portfolio/static/media/home-main.1d8829e0fdb839297c53.png",
+    "static/media/preloader.svg": "/Personal-Portfolio/static/media/preloader.d4812f51c8c80976eaab.svg",
+    "index.html": "/Personal-Portfolio/index.html",
+    "main.20908ec3.css.map": "/Personal-Portfolio/static/css/main.20908ec3.css.map",
+    "main.7f80adad.js.map": "/Personal-Portfolio/static/js/main.7f80adad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20908ec3.css",
+    "static/js/main.7f80adad.js"
+  ]
+}
