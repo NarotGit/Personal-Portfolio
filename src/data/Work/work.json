@@ -9,8 +9,10 @@
       "startDate": "October, 2023",
       "endDate": "Current",
       "achievements": [
-        "Designed and implemented a microservice for near real-time forecasting and anomaly detection of a electrical asset.",
-        "Developed Data analystics for various electrical assets"
+        "Developed and built a microservice for near-real-time forecasting and anomaly detection for an electrical asset",
+        "Created data analytics solutions for diverse electrical assets.",
+        "Created automated scripts for extracting data from offline reports through Optical Character Recognition (OCR) technology.",
+        "Supervised and guided a team of four individuals to ensure successful completion of tasks."
       ]
     },
     {
