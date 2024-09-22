@@ -9,7 +9,7 @@ const SkillCard = (props) => {
             <Card.Img
                 className="skill-card-image"
                 variant="top"
-                src={`/Assets/Skills/${props.logo}`}
+                src={require('../../assets/Skills/'+`${props.logo}`)}
                 alt="skill-card-img"
             />
             <Card.Body>

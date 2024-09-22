@@ -8,7 +8,7 @@ const WorkCard = (props) => {
             <Card.Img
                 className="work-card-image"
                 variant="top"
-                src={`/Assets/Work/${props.companyLogo}`}
+                src={require('../../assets/Work/'+`${props.companyLogo}`)}
                 alt="work-card-img"
             />
             <Card.Body>

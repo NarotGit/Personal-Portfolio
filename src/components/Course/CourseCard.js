@@ -8,7 +8,7 @@ const CourseCard = (props) => {
         <Card className="course-card-view">
             <Card.Img
                 variant="top"
-                src={`/Assets/Courses/${props.imagePath}`}
+                src={require('../../assets/Courses/'+`${props.imagePath}`)}
                 alt="course-card-img"
             />
             <Card.Body>
