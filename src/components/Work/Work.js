@@ -29,7 +29,7 @@ function Work() {
             <Container>
                 <h1 className="work-heading">
                     I have <strong className="purple"> {totalExperience}+ Years </strong> of Work
-                    Experience as a Data Scientist
+                    Experience as a Data Scientist & AI/ML Engineer
                 </h1>
                 <p style={{ color: 'white' }}>These are all the jobs held by me so far.</p>
                 <Row style={{ justifyContent: 'center', paddingBottom: '10px' }}>

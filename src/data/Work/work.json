@@ -1,18 +1,20 @@
 {
-  "totalExperience": 2.5,
+  "totalExperience": 4.5,
   "workExperience": [
     {
       "company": "RMES India Pvt. Ltd",
       "companyLogo": "rugged.svg",
-      "designation": "Data Scientist",
+      "designation": "AI/ML Engineer",
       "location": "Hyderabad, Telangana, India",
       "startDate": "October, 2023",
       "endDate": "Current",
       "achievements": [
-        "Developed and built a microservice for near-real-time forecasting and anomaly detection for an electrical asset",
-        "Created data analytics solutions for diverse electrical assets.",
-        "Created automated scripts for extracting data from offline reports through Optical Character Recognition (OCR) technology.",
-        "Supervised and guided a team of four individuals to ensure successful completion of tasks."
+        "Built and developed an end-to-end microservice enabling seamless integration for delivering AI/ML services.",
+        "Supervised and led a team of 8 members, ensuring timely and successful task completion.",
+        "Key modules developed include:",
+        "● Designed forecasting and anomaly detection agents for electrical assets.",
+        "● Built a SQLBOT capable of interacting with relational databases using natural language.",
+        "● Provided comprehensive analytical services for monitoring and analyzing electrical assets."
       ]
     },
     {

@@ -29,16 +29,19 @@
       "overAllValue": 7,
       "subSkills": [
         "Python",
-        "Flask"
+        "Framkeworks: Flask, FastAPI",
+        "API Development",
+        "Microservices Architecture"
       ]
     },
     {
-      "category": "DBMS & Databases",
+      "category": "Database Management",
       "logo": "database.jpeg",
       "overAllValue": 7,
       "subSkills": [
         "MySQL",
         "Postgres",
+        "Redis",
         "MongoDB"
       ]
     },
@@ -57,8 +60,13 @@
       "logo": "cloud.jpeg",
       "overAllValue": 5,
       "subSkills": [
-        "Azure DataFactory",
-        "Azure Storage"
+        "Azure: ",
+        "● Azure DataFactory",
+        "● Azure Storage",
+        "● Azure ML Studio",
+        "AWS: ",
+        "● AWS SageMaker",
+        "● S3 Bucket"
       ]
     }
 

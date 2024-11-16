@@ -7,9 +7,9 @@ const Interests = () => {
             options={{
                 strings: [
                     'Data Science',
-                    'ML/AI Engineering',
-                    'Data Analytics',
-                    'Data Engineering'
+                    'AI/ML Engineering',
+                    'Data Engineering',
+                    'Data Analytics'
                 ],
                 autoStart: true,
                 loop: true,

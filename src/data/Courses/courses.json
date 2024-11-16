@@ -1,6 +1,26 @@
 {
   "courses": [
     {
+      "title": "Building RAG Agents with LLMs",
+      "description": "Exploring and designing Retrieval-Augmented Generation (RAG) pipelines and interfaces for effective LLM deployment",
+      "issuer": "Nvidia",
+      "instructor": "self-paced",
+      "imagePath": "Building RAG Agents with LLMs.jpg",
+      "completionDate": "November, 2024",
+      "duration": "8 hrs",
+      "link": "https://learn.nvidia.com/certificates?id=2XTEu8C5TRSyf-65KcPKTg"
+    },
+    {
+      "title": "GenAI with LLMs",
+      "description": "In Generative AI with Large Language Models (LLMs), you’ll learn the fundamentals of how generative AI works, and how to deploy it in real-world applications.",
+      "issuer": "Coursera & Deeplearning.AI",
+      "instructor": "Andrew Neg",
+      "imagePath": "GenAI with LLMs.jpg",
+      "completionDate": "November, 2024",
+      "duration": "2 months",
+      "link": "https://coursera.org/share/ebbd4764350a336b4ce198ce9a7fc92c"
+    },
+    {
       "title": "Data Science & AI",
       "description": "Data Science, Statistics, ML, R, Python",
       "issuer": "Social Prachar",
@@ -28,15 +48,6 @@
       "completionDate": "2022-2023",
       "duration": "27 hours",
       "link": "https://www.udemy.com/certificate/UC-50c4e514-72ca-461f-bd09-98fd3a1b31af/"
-    },
-    {
-      "title": "Introduction to Data Science",
-      "description": "A course on cognitiveclass.ai Powered by IBM Developer Skills Network.",
-      "issuer": "Cognitive Class",
-      "instructor": "by IBM",
-      "imagePath": "Cognitive Class DS0101EN Certificate.jpg",
-      "completionDate": "November 9, 2020",
-      "link": "https://courses.cognitiveclass.ai/certificates/efecef61d2f74633ae4b61d157284ce9"
     },
     {
       "title": "AWS Machine Learning",
@@ -73,6 +84,15 @@
       "imagePath": "DeepLearning_AI.png",
       "completionDate": "2024",
       "duration": "4 hours"
+    },
+    {
+      "title": "Introduction to Data Science",
+      "description": "A course on cognitiveclass.ai Powered by IBM Developer Skills Network.",
+      "issuer": "Cognitive Class",
+      "instructor": "by IBM",
+      "imagePath": "Cognitive Class DS0101EN Certificate.jpg",
+      "completionDate": "November 9, 2020",
+      "link": "https://courses.cognitiveclass.ai/certificates/efecef61d2f74633ae4b61d157284ce9"
     }
   ]
 }

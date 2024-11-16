@@ -30,15 +30,15 @@ const HomeSection = () => {
                             <br />
                             My main field of expertise is&nbsp;
                             <i>
-                                <b className="purple">Data Science </b> and I am also
+                                <b className="purple">Data Science & AI</b> and I am also
                                 interested in fields like{' '}
                                 <b className="purple">
-                                    Artificial intelligence, Space and Nature.
+                                    Technology, Space and Nature.
                                 </b>
                             </i>
                             <br />
-                            <br />I have 3+ years of work experience as{' '}
-                            <b className="purple">Data Scientist</b> with
+                            <br />I have 4+ years of work experience as{' '}
+                            <b className="purple">Data Scientist & AI/ML Engineer</b> with
                             <i>
                                 <b className="purple"> Python</b>
                             </i>

@@ -24,10 +24,9 @@ function Skill() {
             <Particle />
             <Container>
                 <h2 className="skill-heading">
-                    I am a <strong className="purple"> Data Scientist. </strong> I also Keep
-                    up with latest advancements and trends in the field of AI and ML,
-                     extending knowledge across diverse domains and industries. Always keen to learn new
-                    technologies and Concepts.
+                    {/* I am a <strong className="purple"> Data Scientist. </strong>  */}
+                    <em>I always try to stay updated with AI/ML advancements, expanding expertise across various domains and industries, 
+                    with a strong drive for learning new technologies and concepts.</em>
                 </h2>
                 <p style={{ color: 'white' }}>These are my major skills categorized by domains.</p>
                 <Row style={{ justifyContent: 'center', paddingBottom: '10px' }}>
