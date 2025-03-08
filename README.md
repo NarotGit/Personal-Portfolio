@@ -4,7 +4,7 @@ Welcome to my personal portfolio project! This is a showcase of my skills, proje
 
 ## About
 
-My name is Narotham, and I am a passionate data scientist with 3 years of experience in the industry. This portfolio serves as a snapshot of my journey, highlighting key works and skills.
+My name is Narotham, and I am a passionate AI/ML Engineer with 4 years of experience in the industry. This portfolio serves as a snapshot of my journey, highlighting key works and skills.
 
 
 ## Contact
