@@ -12,20 +12,20 @@ function AboutCard() {
                         from <span className="purple"> Hyderabad, Telangana, India.</span>
                         <br /> I am a{' '}
                         <span className="purple">
-                            Electronics and Communication Engineering Graduate from 
-                            KG Reddy Engineering College, Hyderabad
+                            Artificial Intelligence & Machine Learning Engineer from 
+                            Bits Pilani.
                         </span>
                         .
                         <br />
                         Currently I am working as an{' '}
-                        <span className="purple">Data Scientist at RMES India Pvt. Ltd</span>.
+                        <span className="purple">AI/ML Engineer at RMES India Pvt. Ltd</span>.
                         <br />
                         <br />
                         Apart from coding, some other activities that I love to do!
                     </p>
                     <ul>
                         <li className="about-activity">
-                            <ImPointRight /> Reading Books and Playing Games
+                            <ImPointRight /> Trekking and Video Games
                         </li>
                         <li className="about-activity">
                             <ImPointRight /> Learning about Tech, Space, Geology, and Global Affairs

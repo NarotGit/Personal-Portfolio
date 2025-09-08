@@ -1,5 +1,13 @@
 {
   "education": [
+      {
+      "title": "M.Tech Artificial Intelligence and Machine Learning",
+      "college": "Bits Pilani",
+      "location": "Hyderabad, Telangana, India",
+      "startDate": "May 2025",
+      "endDate": "April 2027",
+      "logo": "jiit.png"
+    },
     {
       "title": "B.Tech Electronics and Communication Engineering (ECE)",
       "college": "KG Reddy Engineering College",

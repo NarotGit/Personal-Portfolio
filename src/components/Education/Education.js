@@ -27,8 +27,8 @@ function Education() {
             <Particle />
             <Container>
                 <h1 className="education-heading">
-                    I am a <strong className="purple"> Electronics And Communication Engineer. </strong> I
-                    graduated in 2019 from JNTUH University, Hyderabad.
+                    I am a <strong className="purple"> AI and ML Engineer. </strong>
+                    Graduating from Birla Institute of Technology and Science.
                 </h1>
                 <p style={{ color: 'white' }}>These are my educational qualifications.</p>
                 <Row style={{ justifyContent: 'center', paddingBottom: '10px' }}>

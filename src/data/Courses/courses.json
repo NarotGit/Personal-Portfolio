@@ -1,5 +1,23 @@
 {
   "courses": [
+      {
+      "title": "MCP Servers Made with Python and OpenAI Agents",
+      "description": " MCP - the protocol that lets agents use tools, access data & execute actions. Create Python servers your agents can Interact With",
+      "issuer": "CodeSignal",
+      "instructor": "self-paced",
+      "imagePath": "codesignal.png",
+      "completionDate": "August, 2025",
+      "link": "https://drive.google.com/file/d/1C_olZcYp0zeA9V2LwekRAUAAHwRZJg-k/view?usp=drive_link"
+    },
+    {
+      "title": "Building GenAI Applications with MongoDB",
+      "description": "Developing GenAI applications using MongoDB Atlas Vector Search. It recognizes understanding of semantic search and how to build chatbots with Retrieval Augmented Generation (RAG), MongoDB, and Langchain.",
+      "issuer": "MongoDB",
+      "instructor": "self-paced",
+      "imagePath": "building-genai-applications-with-mongodb.png",
+      "completionDate": "April, 2025",
+      "link": "https://www.credly.com/badges/02630e34-b41c-481d-8033-e81c7f7e4d98/public_url"
+    },
     {
       "title": "Building RAG Agents with LLMs",
       "description": "Exploring and designing Retrieval-Augmented Generation (RAG) pipelines and interfaces for effective LLM deployment",
