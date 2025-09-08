@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/Personal-Portfolio/static/css/main.6ca33a3d.css",
-    "main.js": "/Personal-Portfolio/static/js/main.65d9a3ea.js",
+    "main.js": "/Personal-Portfolio/static/js/main.7a230434.js",
     "static/media/Datascience_AI.jpg": "/Personal-Portfolio/static/media/Datascience_AI.1f611d593e51df2c5e62.jpg",
     "static/media/GenAI with LLMs.jpg": "/Personal-Portfolio/static/media/GenAI with LLMs.425ab0951559c8e247e8.jpg",
     "static/media/Deep learning.jpg": "/Personal-Portfolio/static/media/Deep learning.2032037e6dff38e716f2.jpg",
     "static/media/Cognitive Class DS0101EN Certificate.jpg": "/Personal-Portfolio/static/media/Cognitive Class DS0101EN Certificate.d045e4bd26e1eca3807f.jpg",
     "static/media/avatar.png": "/Personal-Portfolio/static/media/avatar.8c9dfcec403021834a03.png",
+    "static/media/codesignal.png": "/Personal-Portfolio/static/media/codesignal.cf8530141c3f8e1e78f1.png",
     "static/media/Building RAG Agents with LLMs.jpg": "/Personal-Portfolio/static/media/Building RAG Agents with LLMs.8141692c68e4d25a07ef.jpg",
     "static/media/home-bg.jpg": "/Personal-Portfolio/static/media/home-bg.44682456e375dc8e0d76.jpg",
     "static/media/Azure ML.jpg": "/Personal-Portfolio/static/media/Azure ML.9978ffcb320b8c0a4cfa.jpg",
@@ -17,6 +18,7 @@
     "static/media/logo.png": "/Personal-Portfolio/static/media/logo.d82c17528902737e92c5.png",
     "static/media/language.png": "/Personal-Portfolio/static/media/language.fa37444a284fc6cbe54c.png",
     "static/media/DL_AI.png": "/Personal-Portfolio/static/media/DL_AI.ba605a63f8ccd3479ccf.png",
+    "static/media/building-genai-applications-with-mongodb.png": "/Personal-Portfolio/static/media/building-genai-applications-with-mongodb.e647d21b7cc7479edc0a.png",
     "static/media/home-main.png": "/Personal-Portfolio/static/media/home-main.1d8829e0fdb839297c53.png",
     "static/media/DeepLearning_AI.png": "/Personal-Portfolio/static/media/DeepLearning_AI.d5ce0ce4587f8d88ace3.png",
     "static/media/rugged.svg": "/Personal-Portfolio/static/media/rugged.c658d3afe822d1725018.svg",
@@ -24,10 +26,10 @@
     "static/media/preloader.svg": "/Personal-Portfolio/static/media/preloader.d4812f51c8c80976eaab.svg",
     "index.html": "/Personal-Portfolio/index.html",
     "main.6ca33a3d.css.map": "/Personal-Portfolio/static/css/main.6ca33a3d.css.map",
-    "main.65d9a3ea.js.map": "/Personal-Portfolio/static/js/main.65d9a3ea.js.map"
+    "main.7a230434.js.map": "/Personal-Portfolio/static/js/main.7a230434.js.map"
   },
   "entrypoints": [
     "static/css/main.6ca33a3d.css",
-    "static/js/main.65d9a3ea.js"
+    "static/js/main.7a230434.js"
   ]
 }
